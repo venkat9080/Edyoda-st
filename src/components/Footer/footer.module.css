@@ -1,0 +1,38 @@
+
+  .footer {
+    Background-color: hsl(227, 100%, 9%);
+    padding: 3rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.footer-block {
+    flex-direction: column;
+    text-align: left;
+    color: #fff;
+}
+
+.footer h3{
+    font-size: 15px;
+    color: hsla(0,0%,100%,.5);
+    font-weight: 500;
+
+}
+
+.footer a{
+    color: #fff;
+    font-weight: 300;
+    font-size: 13px;
+}
+.footer  li {
+    padding: 0.3rem 0;
+    color: #fff;
+    font-weight: 300;
+    font-size: 13px;
+}
+h1{
+    color: white;
+    font-size: large;
+}
+
